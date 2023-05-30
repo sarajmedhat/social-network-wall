@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "email": "msmsm@gmail.com",
+      "username": "ddd",
+      "password": "uuuuuuu",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "username": "ddd",
+      "text": "my name is seraj",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/sbook-d58d8.appspot.com/o/images%2F1684378102901?alt=media&token=bd3d9dc7-f6b9-4766-bcae-2b0418fc48ca",
+      "likes": [],
+      "comments": [],
+      "id": 1
+    },
+    {
+      "username": "ddd",
+      "text": "my name is seraj 2",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/sbook-d58d8.appspot.com/o/images%2F1684378120075?alt=media&token=e53f2c88-3e28-478c-931c-a6134acc0c9b",
+      "likes": [
+        1
+      ],
+      "comments": [
+        {
+          "username": "ddd",
+          "comment": "lllll"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "username": "ddd",
+      "text": "kkkk",
+      "imageUrl": "",
+      "likes": [],
+      "comments": [],
+      "id": 3
+    },
+    {
+      "username": "ddd",
+      "text": "testing 10",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/sbook-d58d8.appspot.com/o/images%2F1684716790076?alt=media&token=149f8e5e-a7df-44a3-a1c8-9c13f72c7912",
+      "likes": [],
+      "comments": [],
+      "id": 4
+    },
+    {
+      "username": "ddd",
+      "text": "testing 11",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/sbook-d58d8.appspot.com/o/images%2F1684716868843?alt=media&token=8c8b2150-e7c5-4d5c-ae06-0f5a0f7932e7",
+      "likes": [],
+      "comments": [],
+      "id": 5
+    }
+  ]
+}
